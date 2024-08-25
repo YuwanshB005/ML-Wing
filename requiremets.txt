@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+google-api-python-client
+numpy
+pandas
+scikit-learn
+nltk
+fpdf
+
