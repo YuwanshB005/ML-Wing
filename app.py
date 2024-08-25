@@ -5,6 +5,7 @@ import pandas as pd
 from googleapiclient.discovery import build
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+import tensorflow
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.models import load_model
 import pickle
